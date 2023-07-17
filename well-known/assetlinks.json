@@ -1,1 +1,5 @@
-
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.jonathan.CallingApp",
+               "sha256_cert_fingerprints": ["7E:4E:00:0A:C5:6B:70:85:83:5C:A7:5A:5A:FA:F2:24:84:97:37:10:35:53:48:6C:54:FE:33:13:56:94:9D:1D"] }
+}]
